@@ -1,0 +1,5 @@
+com\freightos\SnackVendingMachine\App.class
+com\freightos\SnackVendingMachine\payment\Payment.class
+com\freightos\SnackVendingMachine\product\Product.class
+com\freightos\SnackVendingMachine\machine\VendingMachine.class
+com\freightos\SnackVendingMachine\payment\CardPayment.class
